@@ -50,11 +50,11 @@ NAME -  SWATI PRIYA
         	I have learned python from scrap . I learned about the various python packages . This project taught me how to debug and then handle the errors.The most important thing that I learned is time management and proper planning that is required to make a project .
  
  
-<img src="demo/Screenshot (13).png" width="750">
-<img src="demo/Screenshot (210).png" width="750">
-<img src="demo/Screenshot (211).png" width="750">
-<img src="demo/Screenshot (295).png" width="750">
-<img src="demo/Screenshot (296).png" width="750">
-<img src="demo/Screenshot (18).png" width="750">
-<img src="demo/Screenshot (240).png" width="750">
+<img src="Screenshot (13).png" width="750">
+<img src="Screenshot (210).png" width="750">
+<img src="Screenshot (211).png" width="750">
+<img src="Screenshot (295).png" width="750">
+<img src="Screenshot (296).png" width="750">
+<img src="Screenshot (18).png" width="750">
+<img src="Screenshot (240).png" width="750">
 
